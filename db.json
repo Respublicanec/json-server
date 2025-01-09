@@ -18,6 +18,348 @@
       "year": 2024,
       "age_restrictions": 16,
       "price": 1160
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "views": 200,
+      "author": {
+        "id": 2,
+        "name": "Джордж Оруэлл"
+      },
+      "description": "Действие романа происходит в антиутопическом будущем, где правительство контролирует все аспекты жизни граждан.",
+      "images": [
+        "https://cdn1.ozone.ru/s3/multimedia-y/6353881258.jpg", "https://cdn5.vedomosti.ru/image/2020/a/127gpi/original-1dil.jpg"
+      ],
+      "page_count": 328,
+      "rating": 4.8,
+      "year": 1949,
+      "age_restrictions": 18,
+      "price": 800
+    },
+    {
+      "id": 3,
+      "title": "Мастер и Маргарита",
+      "views": 150,
+      "author": {
+        "id": 3,
+        "name": "Михаил Булгаков"
+      },
+      "description": "Роман, в котором переплетаются судьбы людей и дьявольские интриги в Москве 1930-х годов.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/7516494/img_id6179419098150932149.jpeg/orig", "https://img.labirint.ru/rcimg/dafabd97103689a6902820701fe1e493/960x540/comments_pic/1605/2_deb95da5a4afe4cc4ff8f188da4db70a_1454514635.jpg?1454514816"
+      ],
+      "page_count": 400,
+      "rating": 4.7,
+      "year": 1967,
+      "age_restrictions": 16,
+      "price": 900
+    },
+    {
+      "id": 4,
+      "title": "Убить пересмешника",
+      "views": 120,
+      "author": {
+        "id": 4,
+        "name": "Харпер Ли"
+      },
+      "description": "История о расовых предрассудках и социальной справедливости в маленьком американском городке.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/466729/img_id7825926373424978395.jpeg/orig", "https://avatars.dzeninfra.ru/get-zen_doc/1705212/pub_64f70d9b01dd5b2de1d3ce4b_64f71094be84d973e471d13e/scale_1200"
+      ],
+      "page_count": 281,
+      "rating": 4.6,
+      "year": 1960,
+      "age_restrictions": 12,
+      "price": 850
+    },
+    {
+      "id": 5,
+      "title": "Великий Гэтсби",
+      "views": 140,
+      "author": {
+        "id": 5,
+        "name": "Фрэнсис Скотт Фицджеральд"
+      },
+      "description": "Роман о любви, богатстве и мечтах в эпоху джаза.",
+      "images": [
+        "https://cdn1.ozone.ru/s3/multimedia-j/6022118635.jpg", "https://avatars.dzeninfra.ru/get-zen_doc/10893578/pub_64faf5f31ccb410fa30a0cdd_64faf85e40159a051ab329a4/scale_1200"
+      ],
+      "page_count": 180,
+      "rating": 4.4,
+      "year": 1925,
+      "age_restrictions": 16,
+      "price": 780
+    },
+    {
+      "id": 6,
+      "title": "451 градус по Фаренгейту",
+      "views": 110,
+      "author": {
+        "id": 6,
+        "name": "Рэй Брэдбери"
+      },
+      "description": "Антиутопия о будущем, где книги сжигаются, а мысль контролируется.",
+      "images": [
+        "https://goods-photos.static1-sima-land.com/items/1738570/0/700.jpg?v=0", "https://cache3.youla.io/files/images/780_780/5a/54/5a547966c15ae384982504a6.jpg"
+      ],
+      "page_count": 158,
+      "rating": 4.5,
+      "year": 1953,
+      "age_restrictions": 14,
+      "price": 700
+    },
+    {
+      "id": 7,
+      "title": "Старик и море",
+      "views": 130,
+      "author": {
+        "id": 7,
+        "name": "Эрнест Хемингуэй"
+      },
+      "description": "История о борьбе старика с гигантской рыбой и его внутренними переживаниями.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/6256254/img_id111964536100575391.jpeg/orig", "https://cache3.youla.io/files/images/780_780/5a/79/5a792f4a132ca5974d2f4973.jpg"
+      ],
+      "page_count": 128,
+      "rating": 4.3,
+      "year": 1952,
+      "age_restrictions": 12,
+      "price": 600
+    },
+    {
+      "id": 8,
+      "title": "Три товарища",
+      "views": 100,
+      "author": {
+        "id": 8,
+        "name": "Эрих Мария Ремарк"
+      },
+      "description": "Роман о дружбе, любви и потерях в послевоенной Германии.",
+      "images": [
+        "https://cdn1.ozone.ru/s3/multimedia-q/6425868002.jpg", "https://avatars.mds.yandex.net/i?id=2a56e684a191a6c31e5f63a1622bdda9_l-10533400-images-thumbs&n=13"
+      ],
+      "page_count": 352,
+      "rating": 4.6,
+      "year": 1936,
+      "age_restrictions": 16,
+      "price": 850
+    },
+    {
+      "id": 9,
+      "title": "Алхимик",
+      "views": 90,
+      "author": {
+        "id": 9,
+        "name": "Пауло Коэльо"
+      },
+      "description": "Философская история о поиске своего предназначения и смысла жизни.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/6256254/img_id2666434859168476336.jpeg/orig", "https://avatars.mds.yandex.net/get-mpic/5173454/img_id2380985565876688749.jpeg/orig"
+      ],
+      "page_count": 208,
+      "rating": 4.5,
+      "year": 1988,
+      "age_restrictions": 12,
+      "price": 750
+    },
+    {
+      "id": 10,
+      "title": "Тень ветра",
+      "views": 45,
+      "author": {
+        "id": 10,
+        "name": "Карлос Руис Сафон"
+      },
+      "description": "История о молодом мальчике, который находит загадочную книгу в забытом библиотечном кладбище. Его поиски автора приводят к раскрытию мрачных секретов и тайн.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/11417897/2a0000018d35192bc7e63d1c8f1e23a92784/orig", "https://img.labirint.ru/rcimg/9fa1d640368e5547964d63c3590df866/960x540/comments_pic/1546/0_32b2c05bce739f6aee0cccb860ec6f07_1447092502.jpg?1447092548"
+      ],
+      "page_count": 576,
+      "rating": 4.7,
+      "year": 2001,
+      "age_restrictions": 16,
+      "price": 950
+    },
+    {
+      "id": 11,
+      "title": "На маяк",
+      "views": 70,
+      "author": {
+        "id": 11,
+        "name": "Вирджиния Вулф"
+      },
+      "description": "Роман о жизни и внутреннем мире женщин в начале 20 века.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/4590616/img_id1909475670526756537.jpeg/orig", "https://i2022.otzovik.com/2022/10/18/13897183/img/915986_67704421.jpeg"
+      ],
+      "page_count": 209,
+      "rating": 4.4,
+      "year": 1927,
+      "age_restrictions": 14,
+      "price": 850
+    },
+    {
+      "id": 12,
+      "title": "Сияние",
+      "views": 60,
+      "author": {
+        "id": 12,
+        "name": "Стивен Кинг"
+      },
+      "description": "Психологический триллер о семье, которая сталкивается с ужасами в отеле.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/7980098/img_id8959707228695373630.jpeg/orig", "https://40.img.avito.st/image/1/1.62233La4R4ShdP2O7fvTSdt-RYIJfeWNuXdFhgd1T44B.4yGGIrfSowSGzO6wREsVsr39yuM01TImREPqnKhuhBc"
+      ],
+      "page_count": 447,
+      "rating": 4.7,
+      "year": 1977,
+      "age_restrictions": 18,
+      "price": 950
+    },
+    {
+      "id": 13,
+      "title": "Над пропастью во ржи",
+      "views": 50,
+      "author": {
+        "id": 13,
+        "name": "Джером Д. Сэлинджер"
+      },
+      "description": "История о подростковом бунте и поиске своего места в мире.",
+      "images": [
+        "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_661d2c83d3e5ad0174054ef3_661d2caca6db3a7bfa1e7e51/scale_1200", "https://83.img.avito.st/640x480/12744172783.jpg"
+      ],
+      "page_count": 277,
+      "rating": 4.2,
+      "year": 1951,
+      "age_restrictions": 16,
+      "price": 800
+    },
+    {
+      "id": 14,
+      "title": "Поющие в терновнике",
+      "views": 40,
+      "author": {
+        "id": 14,
+        "name": "Коллин Маккалоу"
+      },
+      "description": "Сага о любви и семейных драмах в Австралии.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/1901647/img_id208035364678190435.jpeg/orig", "https://www.drogichin.by/wp-content/uploads/2022/08/i.jpg"
+      ],
+      "page_count": 512,
+      "rating": 4.5,
+      "year": 1977,
+      "age_restrictions": 16,
+      "price": 1100
+    },
+    {
+      "id": 15,
+      "title": "Братья Карамазовы",
+      "views": 75,
+      "author": {
+        "id": 15,
+        "name": "Федор Достоевский"
+      },
+      "description": "Философский роман о нравственных и религиозных вопросах, исследующих душу человека через судьбы трех братьев.",
+      "images": [
+        "https://avatars.mds.yandex.net/i?id=21c6c8a558671c8057c3d82c3696cb9f_l-4443508-images-thumbs&n=13", "https://static.onlinetrade.ru/img/items/b/bratya_karamazovy_dostoevskiy_fedor_mikhaylovich__299815_2.jpg"
+      ],
+      "page_count": 796,
+      "rating": 4.8,
+      "year": 1880,
+      "age_restrictions": 18,
+      "price": 1200
+    },
+    {
+      "id": 16,
+      "title": "Код да Винчи",
+      "views": 20,
+      "author": {
+        "id": 16,
+        "name": "Дэн Браун"
+      },
+      "description": "Триллер о загадках и тайнах, связанных с историей и искусством.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/6256254/img_id8009137198890232237.jpeg/orig", "https://i2016.otzovik.com/2016/12/02/4155975/img/6609627.jpeg"
+      ],
+      "page_count": 454,
+      "rating": 4.3,
+      "year": 2003,
+      "age_restrictions": 16,
+      "price": 900
+    },
+    {
+      "id": 17,
+      "title": "Гордость и предубеждение",
+      "views": 70,
+      "author": {
+        "id": 17,
+        "name": "Джейн Остин"
+      },
+      "description": "Классический роман о любви и социальном статусе в Англии XIX века, рассказывающий историю Элизабеты Беннет.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/5253116/img_id7942226707421527451.jpeg/orig", "https://s2-goods.ozstatic.by/2000/23/12/1/1012023_0.jpg"
+      ],
+      "page_count": 432,
+      "rating": 4.6,
+      "year": 1813,
+      "age_restrictions": 12,
+      "price": 750
+    },
+    {
+      "id": 18,
+      "title": "О дивный новый мир",
+      "views": 65,
+      "author": {
+        "id": 18,
+        "name": "Олдос Хаксли"
+      },
+      "description": "Антиутопия, описывающая общество, где счастье достигается за счет контроля и манипуляции.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/5283489/img_id2256321276606291723.jpeg/orig", "https://static22.tgcnt.ru/posts/_0/e4/e4a6a336dc485f2cdb691b3bb6a3b020.jpg"
+      ],
+      "page_count": 311,
+      "rating": 4.5,
+      "year": 1932,
+      "age_restrictions": 16,
+      "price": 850
+    },
+    {
+      "id": 19,
+      "title": "Скорбь сатаны",
+      "views": 5,
+      "author": {
+        "id": 19,
+        "name": "Морис Дрюон"
+      },
+      "description": "Роман о любви и предательстве на фоне исторических событий.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/4835126/img_id375327389916771023.jpeg/orig", "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/184281/0RGsdWdmnhZaJnqLZSF6Lw.jpg"
+      ],
+      "page_count": 320,
+      "rating": 4.5,
+      "year": 1970,
+      "age_restrictions": 16,
+      "price": 950
+    },
+    {
+      "id": 20,
+      "title": "Маленький принц",
+      "views": 25,
+      "author": {
+        "id": 20,
+        "name": "Антуан де Сент-Экзюпери"
+      },
+      "description": "Философская сказка о дружбе, любви и о том, что действительно важно в жизни.",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/12087486/2a000001902ef55a593f0de930e5aa188ea7/orig", "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/2820493/eG7DbsQQbzGrLmU0JhWW5A.jpg"
+      ],
+      "page_count": 96,
+      "rating": 4.9,
+      "year": 1943,
+      "age_restrictions": 6,
+      "price": 500
     }
   ],
   "profile": {
